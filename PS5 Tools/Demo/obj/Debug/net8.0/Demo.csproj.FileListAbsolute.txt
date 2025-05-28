@@ -1,0 +1,19 @@
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\bin\Debug\net8.0\Demo.exe
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\bin\Debug\net8.0\Demo.deps.json
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\bin\Debug\net8.0\Demo.runtimeconfig.json
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\bin\Debug\net8.0\Demo.dll
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\bin\Debug\net8.0\Demo.pdb
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\bin\Debug\net8.0\PS5 Tools.dll
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\bin\Debug\net8.0\PS5 Tools.pdb
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\obj\Debug\net8.0\Demo.csproj.AssemblyReference.cache
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\obj\Debug\net8.0\Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\obj\Debug\net8.0\Demo.AssemblyInfoInputs.cache
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\obj\Debug\net8.0\Demo.AssemblyInfo.cs
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\obj\Debug\net8.0\Demo.csproj.CoreCompileInputs.cache
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\obj\Debug\net8.0\Demo.sourcelink.json
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\obj\Debug\net8.0\Demo.csproj.Up2Date
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\obj\Debug\net8.0\Demo.dll
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\obj\Debug\net8.0\refint\Demo.dll
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\obj\Debug\net8.0\Demo.pdb
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\obj\Debug\net8.0\Demo.genruntimeconfig.cache
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\Demo\obj\Debug\net8.0\ref\Demo.dll

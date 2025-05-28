@@ -1,0 +1,12 @@
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\PS5 Tools\bin\Debug\net8.0\PS5 Tools.deps.json
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\PS5 Tools\bin\Debug\net8.0\PS5 Tools.dll
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\PS5 Tools\bin\Debug\net8.0\PS5 Tools.pdb
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\PS5 Tools\obj\Debug\net8.0\PS5 Tools.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\PS5 Tools\obj\Debug\net8.0\PS5 Tools.AssemblyInfoInputs.cache
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\PS5 Tools\obj\Debug\net8.0\PS5 Tools.AssemblyInfo.cs
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\PS5 Tools\obj\Debug\net8.0\PS5 Tools.csproj.CoreCompileInputs.cache
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\PS5 Tools\obj\Debug\net8.0\PS5 Tools.sourcelink.json
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\PS5 Tools\obj\Debug\net8.0\PS5 Tools.dll
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\PS5 Tools\obj\Debug\net8.0\refint\PS5 Tools.dll
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\PS5 Tools\obj\Debug\net8.0\PS5 Tools.pdb
+C:\Users\eonvw\OneDrive\Documents\Visual Studio 2022\Projects\PS5_Tools\PS5 Tools\PS5 Tools\obj\Debug\net8.0\ref\PS5 Tools.dll

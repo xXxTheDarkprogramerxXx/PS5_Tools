@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "BnSKJsw4cUo=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\eonvw\\OneDrive\\Documents\\Visual Studio 2022\\Projects\\PS5_Tools\\PS5 Tools\\Demo\\Demo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\eonvw\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\microsoft.visualstudio.azure.containers.tools.targets.1.21.0.nupkg.sha512"
+  ],
+  "logs": []
+}
